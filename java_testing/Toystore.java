@@ -1,4 +1,4 @@
- interface Toy 
+ interface Toy {
     void play();
     void move();
 
