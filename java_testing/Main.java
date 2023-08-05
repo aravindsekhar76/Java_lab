@@ -1,4 +1,4 @@
-public class Main {
+public class Main 
 //   public static void main(String[] args) {
 //     int i =0;
 //    String[] fruits = {"apple","mango","orange","pineapple","grape"};
