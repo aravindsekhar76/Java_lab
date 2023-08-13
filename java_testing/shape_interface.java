@@ -1,7 +1,7 @@
 import java. util.Scanner;
 
 
-interface shape_interface 
+interface shape_interface {
     void read_data();
     void area();
     void perimeter();
