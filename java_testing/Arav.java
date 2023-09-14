@@ -8,7 +8,7 @@ class Arav
         // your code goes here
         int Age = 25;
         int Vage = 18;
-        if(Age >= Vage) 
+        if(Age >= Vage) {
             System.out.println("Old enough to vote!");
         }
         else{
